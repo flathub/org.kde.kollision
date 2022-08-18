@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.04.3/src/kollision-22.04.3.tar.xz",
-                    "sha256": "ae57449458a2cc9860ea25848888ea141c1f105c280ad74e3396b4bf2b1e4865",
+                    "url": "https://download.kde.org/stable/release-service/22.08.0/src/kollision-22.08.0.tar.xz",
+                    "sha256": "3e707f092f62131c8629d241e0a509aa8037225824b6694d1bdb1c6155ebddf4",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
