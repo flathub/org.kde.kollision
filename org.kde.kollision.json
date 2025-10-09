@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.08.1/src/libkdegames-25.08.1.tar.xz",
-                    "sha256": "542b2f951c5091c5157cc0f2f53bae61afc47b21115df7441695b82fa725e83a",
+                    "url": "https://download.kde.org/stable/release-service/25.08.2/src/libkdegames-25.08.2.tar.xz",
+                    "sha256": "43f3cfdf82e46c0764ac779bfcbe3c78728ec9f880e71fcf587fb3c05195f4e7",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.08.1/src/kollision-25.08.1.tar.xz",
-                    "sha256": "825e2fcfda6d4045697946633f5cdee8f8ce3cd66a47998a3d9f3332880d2c2d",
+                    "url": "https://download.kde.org/stable/release-service/25.08.2/src/kollision-25.08.2.tar.xz",
+                    "sha256": "58f42c503902504e4d8542f3e22d9d53b77f6f8144b95aa56719c6f84e3fef4a",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
