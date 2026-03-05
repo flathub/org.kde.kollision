@@ -12,7 +12,7 @@
         "--socket=pulseaudio",
         "--socket=wayland"
     ],
-     "cleanup": [
+    "cleanup": [
         "/include",
         "/lib/cmake",
         "/share/doc",
@@ -25,8 +25,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.2/src/libkdegames-25.12.2.tar.xz",
-                    "sha256": "b258933b52987aefd8133edcdea373a7f7df2983084a642d7763a20862fd8c72",
+                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/libkdegames-25.12.3.tar.xz",
+                    "sha256": "64605a58b087a57dc504d8e7fa4d637b4d59fb91ba1b4ed60f96fc78568f141c",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -42,8 +42,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.2/src/kollision-25.12.2.tar.xz",
-                    "sha256": "23251416df575d8cfd5e33ff863bb1e3ccaab1a968a9054fa35d2d0458798612",
+                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/kollision-25.12.3.tar.xz",
+                    "sha256": "298a0a940235f4fa592d92373ffb1dd9679c5bfa44910e7bcfe014603db90ebb",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
